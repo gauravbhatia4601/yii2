@@ -1,0 +1,17 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore runtime directory
+/runtime/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore environment-specific configuration files
+/config/params-local.php
+
+# Ignore log files
+/web/assets/
+/web/runtime/
+
